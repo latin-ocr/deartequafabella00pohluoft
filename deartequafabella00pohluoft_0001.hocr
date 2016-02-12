@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deartequafabella00pohluoft_0001.png"; bbox 0 0 2184 3490; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 714 890 1291 946">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 714 890 1291 946">
+     <span class='ocr_line' id='line_1_1' title="bbox 714 890 1291 946; baseline -0.005 -11"><span class='ocrx_word' id='word_1_1' title='bbox 714 890 1014 946; x_wconf 72' lang='lat' dir='ltr'><strong>Pohlmann,</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1053 890 1291 934; x_wconf 61' lang='lat' dir='ltr'>Nil-hem</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 712 956 1759 1069">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 712 956 1759 1069">
+     <span class='ocr_line' id='line_1_2' title="bbox 819 956 1759 1011; baseline -0.003 -10"><span class='ocrx_word' id='word_1_3' title='bbox 819 959 887 1002; x_wconf 81' lang='lat' dir='ltr'>De</span> <span class='ocrx_word' id='word_1_4' title='bbox 924 958 1054 1000; x_wconf 72' lang='lat' dir='ltr'>arbe</span> <span class='ocrx_word' id='word_1_5' title='bbox 1093 970 1190 1011; x_wconf 79' lang='lat' dir='ltr'>qua</span> <span class='ocrx_word' id='word_1_6' title='bbox 1226 956 1491 999; x_wconf 77' lang='lat' dir='ltr'>fabellae</span> <span class='ocrx_word' id='word_1_7' title='bbox 1523 956 1759 999; x_wconf 84' lang='lat' dir='ltr'>Herodo-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 712 1024 1347 1069; baseline -0.005 0"><span class='ocrx_word' id='word_1_8' title='bbox 712 1026 850 1069; x_wconf 69' lang='lat' dir='ltr'>teae</span> <span class='ocrx_word' id='word_1_9' title='bbox 885 1025 1152 1067; x_wconf 71' lang='lat' dir='ltr'>narratae</span> <span class='ocrx_word' id='word_1_10' title='bbox 1194 1024 1347 1067; x_wconf 58' lang='lat' dir='ltr'><strong>sint.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 52 141 1812 1724">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 52 141 1812 1724">
+     <span class='ocr_line' id='line_1_4' title="bbox 52 141 1812 1724; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 52 141 1812 1724; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 38 2872 336 3307">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 38 2872 336 3307">
+     <span class='ocr_line' id='line_1_5' title="bbox 38 2872 336 3307; baseline 0 183"><span class='ocrx_word' id='word_1_12' title='bbox 38 2872 336 3307; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
